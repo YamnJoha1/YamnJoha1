@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yamen</h1>
 <p align="center">
-  A frontend-focused developer passionate about building fast, accessible, and polished digital experiences.
+  A software engineer specializing in modern frontend development with Next.js and TypeScript — passionate about building fast, accessible, and user-centered web interfaces. I also have hands-on experience with backend technologies like NestJS and Prisma, as well as mobile development using React Native and Expo, enabling me to deliver cohesive experiences across platforms.
 </p>
 
 ---
